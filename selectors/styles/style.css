@@ -1,0 +1,31 @@
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-weight: 20px;
+    background-color: aliceblue;
+}
+
+.ts4u-class {
+    font-size: 20px;
+}
+
+
+#project {
+    color:  red;
+}
+
+div h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul > li {
+    font-style: oblique;
+}
+
